@@ -5,3 +5,7 @@ This is the Course Manager App that lets users see their Courses they've taken. 
 https://www.figma.com/file/PS3hzTK1AJOpC38yNjLlLj/Sheridan-Course-Management-(Copy)?node-id=118%3A899&t=Wp8gJQYhGwebOINU-1
 
 https://youtu.be/o_LrKUJG-GY
+
+HCI - A3
+
+No updates to prototype
