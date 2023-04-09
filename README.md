@@ -1,4 +1,4 @@
-# HCI-A2
+# HCI
 Assignment For Human Computer interaction (updating figma protype)
 This is the Course Manager App that lets users see their Courses they've taken. They can review and see assignment information, chat with other students and the professor. The app usage is very intuitive and has ability to change font sizing as well for ease of use. The focus to simple but useful features.
 
